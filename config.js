@@ -135,7 +135,7 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: 'music',
+      icon: 'youtube',
       id: '1',
       links: [
         {
@@ -161,20 +161,20 @@ const CONFIG = {
       id: '2',
       links: [
         {
-          name: 'Linkedin',
-          link: 'https://www.linkedin.com',
+          name: 'Roblox',
+          link: 'https://www.roblox.com/home',
         },
         {
-          name: 'Dribbble',
-          link: 'https://www.dribbble.com',
+          name: 'Steam',
+          link: 'https://store.steampowered.com/',
         },
         {
-          name: 'Trello',
-          link: 'https://www.trello.com',
+          name: 'Gartic-Phone',
+          link: 'https://garticphone.com/',
         },
         {
-          name: 'Slack',
-          link: 'https://www.slack.com',
+          name: 'Jackbox',
+          link: 'https://jackbox.tv/#/',
         },
       ],
     },
