@@ -139,20 +139,20 @@ const CONFIG = {
       id: '1',
       links: [
         {
-          name: 'Inspirational',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'AnimationEpic',
+          link: 'https://www.youtube.com/c/AnimationEpic',
         },
         {
-          name: 'Classic',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'JacknJellify',
+          link: 'https://www.youtube.com/user/jacknjellify',
         },
         {
-          name: 'Oldies',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'F1',
+          link: 'https://www.youtube.com/c/F1',
         },
         {
-          name: 'Rock',
-          link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+          name: 'Luke Smith',
+          link: 'https://www.youtube.com/c/LukeSmithxyz',
         },
       ],
     },
