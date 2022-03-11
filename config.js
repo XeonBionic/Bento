@@ -61,13 +61,13 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/mail/u/0/#inbox',
     },
     {
       id: '3',
       name: 'Todoist',
       icon: 'trello',
-      link: 'https://todoist.com',
+      link: 'https://keep.google.com/u/0/',
     },
     {
       id: '4',
@@ -85,7 +85,7 @@ const CONFIG = {
       id: '6',
       name: 'Odysee',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
@@ -100,7 +100,7 @@ const CONFIG = {
       id: '2',
       name: 'twitter',
       icon: 'twitter',
-      link: 'https://twitter.com/',
+      link: 'https://deviantart.com/',
     },
     {
       id: '3',
@@ -118,13 +118,13 @@ const CONFIG = {
       id: '5',
       name: 'Hashnode',
       icon: 'pen-tool',
-      link: 'https://hashnode.com/',
+      link: 'https://monkeytype.com/',
     },
     {
       id: '6',
       name: 'Figma',
       icon: 'figma',
-      link: 'https://figma.com/',
+      link: 'https://htmlcolorcodes.com/',
     },
   ],
 
